@@ -27,7 +27,7 @@
 
 #### Modifying Images
 1. Open the 'Photo Gallery.html' file.
-2. Loacte the CSS classes for the images and background.
+2. Locate the CSS classes for the images and background.
 3. Change the 'images' and 'background-color' properties to your preferred Colors.
 
 #### Adjusting Layout
