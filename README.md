@@ -34,7 +34,8 @@
 - Use CSS properties like 'width', 'height', 'margin', and 'padding' in the stylesheet to tweak the layout.
 
 ##License
-This project is open-source and available for modification and distribution under the "freecodecamp".
+
+This project is open-source and available for modification and distribution under the "freecodecamp/SoniReddyMaram".
 
 Feel free to experiment with code and create your own Photo-Gallery.
 
